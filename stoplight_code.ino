@@ -90,7 +90,6 @@ void loop() {
 }
 
 /*
-Stoplight code created for a teacher at Benica High School to monitor the amount of time to work during class 
 Written By Ben Echard  
-In 2016
+2016
  */
